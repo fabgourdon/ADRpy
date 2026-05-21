@@ -54,3 +54,5 @@ docs/Makefile
 docs/make.bat
 
 
+.venv/
+venv/
